@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/js-calculator/static/css/main.77760647.css",
+    "main.js": "/js-calculator/static/js/main.63fd202c.js",
+    "static/js/787.5d33341d.chunk.js": "/js-calculator/static/js/787.5d33341d.chunk.js",
+    "static/media/leafy-dawn.png": "/js-calculator/static/media/leafy-dawn.271c9355de4b5ed61e8a.png",
+    "index.html": "/js-calculator/index.html",
+    "main.77760647.css.map": "/js-calculator/static/css/main.77760647.css.map",
+    "main.63fd202c.js.map": "/js-calculator/static/js/main.63fd202c.js.map",
+    "787.5d33341d.chunk.js.map": "/js-calculator/static/js/787.5d33341d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77760647.css",
+    "static/js/main.63fd202c.js"
+  ]
+}
